@@ -1,1 +1,42 @@
 # font
+
+## Glossary
+
+- Kerning
+- Contextual Kerning
+- Letter Spacing
+- Cap Height
+- X-height
+- Stem
+- Baseline
+- aperture
+- Ascender Line
+- Descender Line
+- Weight
+- Overshoot
+- Mean line
+- Font Variant Ligature
+- Apex
+- Bowl
+- Bracket
+- Serif
+- Spine
+- Spur
+- Arm
+- Leg
+- Eye
+- Hook/Arch
+- Counter
+- Loop
+- Link
+- Ear
+- Terminal
+- Tail
+- Stem/Vertical Stroke
+- Cap Height
+- Descender/Extender
+- Baseline
+- Glyph-Width
+- Stroke contrast
+- Horizontal stroke
+- Leading
